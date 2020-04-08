@@ -58,6 +58,7 @@ dependencies:
     - scipy==1.4.1
     - seaborn==0.10.0
     - send2trash==1.5.0
+    - sklearn
     - six==1.14.0
     - terminado==0.8.3
     - testpath==0.4.4

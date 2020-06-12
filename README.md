@@ -19,3 +19,10 @@ To run a jupyter notebook you have to:
 - open a prefered console window - I like the anaconda one - and navigate to a folder somewhere above your repo
 - activate your preferred environment (the one in this repo or another one that contains the necessary packages)
 - run either **jupyter notebook** or **jupyter lab**
+
+
+```bash
+pip install virtualenv
+python -m venv .venv
+```
+

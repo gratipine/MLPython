@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 
 
 # %%
-diabetes_data = pd.read_csv("../dataset/diabetes.csv")
+diabetes_data = pd.read_csv("../../dataset/diabetes.csv")
 diabetes_data.describe()
 
 # %% [markdown]

@@ -25,6 +25,7 @@ To run a jupyter notebook you have to:
 pip install virtualenv
 python -m venv .venv
 .venv\Scripts\activate
- pip install -r requirements.txt 
+pip install -U setuptools
+pip install -r requirements.txt 
 ```
 
